@@ -3,20 +3,17 @@
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
 
+## Things to change
+baseurl in _config.yml
+files in _data
+index.hml (bio, google scholar link)
+categories (selected --> ML / NLP / Bio)
+layouts (default.html)
+
 Test changes with:
 ```
 jekyll serve
 ```
-
-Push to the ML web directory:
-```
-rm -rf public_html
-mkdir public_html
-```
-```
-./__deploy.sh
-```
-
 
 ## External Libraries
 - Framework: [Jekyll](http://jekyllrb.com/)
