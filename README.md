@@ -1,4 +1,4 @@
-# Alex Saad-Falcon's Website Based on Martin Saveski's Website
+# Alex Saad-Falcon's Website Based on Martin Saveski's Template
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
@@ -6,7 +6,7 @@ Change one of the files in `_data`, unless you are changing the look of the webs
 ## Things to change
 baseurl in _config.yml
 files in _data
-index.hml (bio, google scholar link)
+index.html (bio, google scholar link)
 categories (selected --> ML / NLP / Bio)
 layouts (default.html)
 
