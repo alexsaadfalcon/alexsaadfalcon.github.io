@@ -2,7 +2,7 @@ papers:
   - title: "Rigorous Approach to Simulate Electromagnetic Interactions in Biological Systems"
     authors: "Kenneth W. Allen, William D. Hunt, Jonathan D. Andreasen, John D. Farnum, <b>Alex Saad-Falcon</b>, Ryan S. Westafer, Douglas R. Denison"
     venue: "NAECON 2018 - IEEE National Aerospace and Electronics Conference"
-    paper_pdf: "/assets/publications/2018_naecon/paper.pdf"
+    paper_pdf: "/assets/publications/2018_ieee_naecon/paper.pdf"
     selected: y
 
 #  - title: "Testing for Arbitrary Interference on Experimentation Platforms."
