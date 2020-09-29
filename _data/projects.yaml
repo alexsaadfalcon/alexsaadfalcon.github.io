@@ -1,54 +1,69 @@
 projects:
-  - title: "Detecting Network Effects"
-    subtitle: "Randomizing Over Randomized Experiments"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
+  - title: "Python Face Swap"
+    subtitle: "Running a face-swapping algorithm on a video using Python"
+    thumbnail: "assets/projects/2018_witness_protection/thumbnail.jpg"
+    url: "https://github.com/alexsaadfalcon/witness_protection/"
     selected: y
-
-  - title: "Human Atlas"
-    subtitle: "Tool for Mapping Social Networks"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
+  - title: "MATLAB Particle Simulation"
+    subtitle: "Simulating and visualizing various particle forces"
+    thumbnail: "assets/projects/2014_matlab_particles/thumbnail.png"
+    url: "https://github.com/alexsaadfalcon/matlab_particles/"
     selected: y
-
-  - title: "Responsive Communities"
-    subtitle: "Pilot project in Jun, Spain"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+  - title: "Java Game of Thrones GUI"
+    subtitle: "Simulating house conflicts and friendships"
+    thumbnail: "assets/projects/2015_java_GoT_sim/thumbnail.png"
+    url: "https://github.com/alexsaadfalcon/java_GoT_sim"
     selected: y
-
-  - title: "Cold-Start Recommendations"
-    subtitle: "Learning Local Collective Embeddings"
-    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
-    url: "projects/2014_item-cold-start.html"
-    selected: n
-
-  - title: "Semi-supervised Learning"
-    subtitle: "Iterative Hybrid Algorithm"
-    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
-    url: "projects/2013_iterative-hybrid-algorithm.html"
-    selected: n
-
-  - title: "Twitter Sentiment Analysis"
-    subtitle: "Analyzing Financial Tweets"
-    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
-    url: "projects/2011_twitter-sentiment-analysis.html"
-    selected: n
-
-  - title: "Wordnet Construction"
-    subtitle: "Automatic Wordnet Construction using Language Models"
-    thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
-    url: "projects/2010_wordnet-contruction.html"
-    selected: n
-
-  - title: "Fingerprint Verification"
-    subtitle: "Image processing class project"
-    thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
-    url: "projects/2010_fingerprint-verification.html"
-    selected: n
-
-  - title: "Connect Four AI Agent"
-    subtitle: "Iterative deepening and alpha-beta pruning"
-    thumbnail: "assets/projects/2009_connect-four/thumbnail.png"
-    url: "projects/2009_connect-four.html"
-    selected: n
+#  - title: "Detecting Network Effects"
+#    subtitle: "Randomizing Over Randomized Experiments"
+#    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+#    url: "projects/2016_network-ab-testing.html"
+#    selected: y
+#
+#  - title: "Human Atlas"
+#    subtitle: "Tool for Mapping Social Networks"
+#    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
+#    url: "projects/2016_human-atlas.html"
+#    selected: y
+#
+#  - title: "Responsive Communities"
+#    subtitle: "Pilot project in Jun, Spain"
+#    thumbnail: "assets/projects/2015_jun/thumbnail.png"
+#    url: "projects/2015_jun.html"
+#    selected: y
+#
+#  - title: "Cold-Start Recommendations"
+#    subtitle: "Learning Local Collective Embeddings"
+#    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
+#    url: "projects/2014_item-cold-start.html"
+#    selected: n
+#
+#  - title: "Semi-supervised Learning"
+#    subtitle: "Iterative Hybrid Algorithm"
+#    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
+#    url: "projects/2013_iterative-hybrid-algorithm.html"
+#    selected: n
+#
+#  - title: "Twitter Sentiment Analysis"
+#    subtitle: "Analyzing Financial Tweets"
+#    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
+#    url: "projects/2011_twitter-sentiment-analysis.html"
+#    selected: n
+#
+#  - title: "Wordnet Construction"
+#    subtitle: "Automatic Wordnet Construction using Language Models"
+#    thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
+#    url: "projects/2010_wordnet-contruction.html"
+#    selected: n
+#
+#  - title: "Fingerprint Verification"
+#    subtitle: "Image processing class project"
+#    thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
+#    url: "projects/2010_fingerprint-verification.html"
+#    selected: n
+#
+#  - title: "Connect Four AI Agent"
+#    subtitle: "Iterative deepening and alpha-beta pruning"
+#    thumbnail: "assets/projects/2009_connect-four/thumbnail.png"
+#    url: "projects/2009_connect-four.html"
+#    selected: n
