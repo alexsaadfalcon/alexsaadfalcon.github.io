@@ -1,19 +1,39 @@
 projects:
-  - title: "Style Transfers"
-    subtitle: "A blog on style transfer and other ML image processing techniques"
-    thumbnail: "assets/projects/2020_style_transfers/thumbnail.jpg"
-    url: "https://styletransfers.com/"
+  - title: "VaseGen"
+    subtitle: "Using generative adversarial networks to reconstruct ancient vases"
+    thumbnail: "assets/projects/2020_vasegen/thumbnail.png"
+    url: "https://github.com/alexsaadfalcon/vasegen/"
     selected: y
   - title: "Python Face Swap"
-    subtitle: "Running a face-swapping algorithm on a video using Python"
+    subtitle: "Running a face-swapping algorithm on live video using Python"
     thumbnail: "assets/projects/2018_witness_protection/thumbnail.jpg"
     url: "https://github.com/alexsaadfalcon/witness_protection/"
     selected: y
+  - title: "NumArt"
+    subtitle: "Deep neural network style transfer using a fluid simulation in browser"
+    thumbnail: "assets/projects/2020_numart/thumbnail.jpg"
+    url: "http://numart.cc/creator"
+    selected: y
+  - title: "C++ Music Visualizer"
+    subtitle: "An OpenGL music visualizer using the FFT and the Mandelbrot set fractal"
+    thumbnail: "assets/projects/2018_cpp_music_viz/thumbnail.jpg"
+    url: "https://github.com/alexsaadfalcon/cpp_music_viz/"
+    selected: n
   - title: "MATLAB Particle Simulation"
     subtitle: "Simulating and visualizing various particle forces"
     thumbnail: "assets/projects/2014_matlab_particles/thumbnail.png"
     url: "https://github.com/alexsaadfalcon/matlab_particles/"
-    selected: y
+    selected: n
+  - title: "Style Transfers"
+    subtitle: "A blog on style transfer and other ML image processing techniques"
+    thumbnail: "assets/projects/2020_style_transfers/thumbnail.jpg"
+    url: "https://styletransfers.com/"
+    selected: n
+#  - title: "ML Math Foundations"
+#    subtitle: ""
+#    thumbnail: "assets/projects/2020_mfml/thumbnail.jpg"
+#    url: "https://github.com/alexsaadfalcon/py_mfml/"
+#    selected: n
   - title: "Java Game of Thrones GUI"
     subtitle: "Simulating house conflicts and friendships"
     thumbnail: "assets/projects/2015_java_GoT_sim/thumbnail.png"
