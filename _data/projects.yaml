@@ -1,7 +1,7 @@
 projects:
   - title: "VaseGen"
     subtitle: "Using generative adversarial networks to reconstruct ancient vases"
-    thumbnail: "assets/projects/2020_vasegen/thumbnail.png"
+    thumbnail: "assets/projects/2020_vasegen/thumbnail.jpg"
     url: "https://github.com/alexsaadfalcon/vasegen/"
     selected: y
   - title: "Python Face Swap"
