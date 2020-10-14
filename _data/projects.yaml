@@ -34,6 +34,11 @@ projects:
 #    thumbnail: "assets/projects/2020_mfml/thumbnail.jpg"
 #    url: "https://github.com/alexsaadfalcon/py_mfml/"
 #    selected: n
+  - title: "DotAI"
+    subtitle: "Training a chatbot using a Dota 2 chat dataset from Kaggle"
+    thumbnail: "assets/projects/2019_dotai/thumbnail.png"
+    url: "https://github.com/alexsaadfalcon/dotai/"
+    selected: n
   - title: "Java Game of Thrones GUI"
     subtitle: "Simulating house conflicts and friendships"
     thumbnail: "assets/projects/2015_java_GoT_sim/thumbnail.png"
