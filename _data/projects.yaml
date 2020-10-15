@@ -36,7 +36,7 @@ projects:
 #    selected: n
   - title: "DotAI"
     subtitle: "Training a chatbot using a Dota 2 chat dataset from Kaggle"
-    thumbnail: "assets/projects/2019_dotai/thumbnail.png"
+    thumbnail: "assets/projects/2019_dotai/thumbnail.jpg"
     url: "https://github.com/alexsaadfalcon/dotai/"
     selected: n
   - title: "Java Game of Thrones GUI"
