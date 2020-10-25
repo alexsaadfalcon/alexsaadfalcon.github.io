@@ -14,7 +14,7 @@ projects:
     thumbnail: "assets/projects/2020_numart/thumbnail.jpg"
     url: "http://numart.cc/creator"
     selected: y
-  - title: "C++ Music Visualizer"
+  - title: "C++ Fractal Music Visualizer"
     subtitle: "An OpenGL music visualizer using the FFT and the Mandelbrot set fractal"
     thumbnail: "assets/projects/2018_cpp_music_viz/thumbnail.jpg"
     url: "https://github.com/alexsaadfalcon/cpp_music_viz/"
