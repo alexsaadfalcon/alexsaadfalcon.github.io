@@ -5,6 +5,23 @@ papers:
     paper_pdf: "/assets/publications/2018_ieee_naecon/paper.pdf"
     paper_doi: "https://doi.org/10.1109/NAECON.2018.8556724"
     selected: y
+  - title: "Using innovative powder technologies to manufacture personalized medicines"
+    authors: "Alex Saad-Falcon"
+    venue: "Pharma Manufacturing"
+#    paper_pdf: "/assets/publications/2020_pharma_manufacturing/paper.pdf"
+    link: "https://www.pharmamanufacturing.com/articles/2020/using-new-powder-technologies-to-manufacture-personalized-medicine/"
+    selected: y
+    web: y
+
+selections:
+  - category: "selected"
+    text: "Selected"
+  - category: "all"
+    text: "All"
+#  - category: "aiml"
+#    text: "AI/ML"
+  - category: "web"
+    text: "Web"
 
 #  - title: "Testing for Arbitrary Interference on Experimentation Platforms."
 #    authors: "Jean Pouget-Abadie, Guillaume Saint-Jacques<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
