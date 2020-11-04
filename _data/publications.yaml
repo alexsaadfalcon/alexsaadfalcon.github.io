@@ -1,17 +1,52 @@
 papers:
-  - title: "Rigorous Approach to Simulate Electromagnetic Interactions in Biological Systems"
+  - title: "Rigorous approach to simulate electromagnetic interactions in biological systems"
     authors: "Kenneth W. Allen, William D. Hunt, Jonathan D. Andreasen, John D. Farnum, <b>Alex Saad-Falcon</b>, Ryan S. Westafer, Douglas R. Denison"
     venue: "NAECON 2018 - IEEE National Aerospace and Electronics Conference"
     paper_pdf: "/assets/publications/2018_ieee_naecon/paper.pdf"
     paper_doi: "https://doi.org/10.1109/NAECON.2018.8556724"
+    link: "https://doi.org/10.1109/NAECON.2018.8556724"
     selected: y
+
   - title: "Using innovative powder technologies to manufacture personalized medicines"
     authors: "Alex Saad-Falcon"
     venue: "Pharma Manufacturing"
-#    paper_pdf: "/assets/publications/2020_pharma_manufacturing/paper.pdf"
+    paper_pdf: "/assets/publications/2020_powder_tech/paper.pdf"
     link: "https://www.pharmamanufacturing.com/articles/2020/using-new-powder-technologies-to-manufacture-personalized-medicine/"
     selected: y
     web: y
+
+  - title: "Industrial safety monitoring using fuzzy logic"
+    authors: "Alex Saad-Falcon"
+    venue: "Industrial Safety and Hygiene News"
+    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
+    link: "https://www.ishn.com/articles/112736-industrial-safety-monitoring-using-fuzzy-information"
+    selected: y
+    web: y
+
+#  - title: "Face Recognition"
+#    authors: "Alex Saad-Falcon"
+#    venue: ""
+##    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
+#    link: ""
+#    selected: y
+#    web: y
+
+#  - title: "ML 5G"
+#    authors: "Alex Saad-Falcon"
+#    venue: ""
+##    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
+#    link: ""
+#    selected: y
+#    web: y
+
+#  - title: ""
+#    authors: "Alex Saad-Falcon"
+#    venue: ""
+##    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
+#    link: ""
+#    selected: y
+#    web: y
+
 
 selections:
   - category: "selected"

@@ -54,15 +54,25 @@ title: Personal Webpage
       {% endif %}
       {% for paper in papers %}
         <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
+          <p class="title">
+            <!--{% if paper.link %}-->
+            <!--<b><a target="_blank" href={{ paper.link }} style="color:black;text-decoration:none;">-->
+              <!--{{ paper.title }}-->
+            <!--</a></b>-->
+            <!--{% else %}-->
+              <!--<b>{{ paper.title }}</b>-->
+            <!--{% endif %}-->
             {% if paper.paper_doi %}
               <a class="button" href="{{ paper.paper_doi }}" target="_blank">DOI</a>
-            {% endif %}
-            {% if paper.link %}
-              <a class="button" href="{{ paper.link }}" target="_blank">Link</a>
+            {% else %}
+              {% if paper.link %}
+                <a class="button" href="{{ paper.link }}" target="_blank">Link</a>
+              {% endif %}
             {% endif %}
             {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
+            <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">
+              <h style="margin-left:1px;">PDF</h>
+            </a>
             {% endif %}
             {% if paper.slides %}
               <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
@@ -75,6 +85,13 @@ title: Personal Webpage
             {% endif %}
             {% if paper.code %}
               <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+            {% endif %}
+            {% if paper.link %}
+            <b><a target="_blank" href={{ paper.link }} style="color:black;text-decoration:none;">
+              {{ paper.title }}
+            </a></b>
+            {% else %}
+              <b>{{ paper.title }}</b>
             {% endif %}
           </p>
 
