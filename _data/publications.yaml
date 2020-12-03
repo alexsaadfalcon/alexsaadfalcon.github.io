@@ -23,6 +23,14 @@ papers:
     selected: y
     web: y
 
+  - title: "How Welding Strategies Can Revolutionize 3D Printing"
+    authors: "Alex Saad-Falcon"
+    venue: "3DPrint.com"
+    paper_pdf: "/assets/publications/2020_welding_printing/paper.pdf"
+    link: "https://3dprint.com/275905/how-welding-strategies-can-revolutionize-3d-printing/"
+    selected: y
+    web: y
+
 #  - title: "Face Recognition"
 #    authors: "Alex Saad-Falcon"
 #    venue: ""
