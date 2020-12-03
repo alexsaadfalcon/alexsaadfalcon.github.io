@@ -18,7 +18,7 @@ papers:
   - title: "Industrial safety monitoring using fuzzy logic"
     authors: "Alex Saad-Falcon"
     venue: "Industrial Safety and Hygiene News"
-    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
+#    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
     link: "https://www.ishn.com/articles/112736-industrial-safety-monitoring-using-fuzzy-information"
     selected: y
     web: y
@@ -26,7 +26,7 @@ papers:
   - title: "How welding strategies can revolutionize 3D printing"
     authors: "Alex Saad-Falcon"
     venue: "3DPrint.com"
-    paper_pdf: "/assets/publications/2020_welding_printing/paper.pdf"
+#    paper_pdf: "/assets/publications/2020_welding_printing/paper.pdf"
     link: "https://3dprint.com/275905/how-welding-strategies-can-revolutionize-3d-printing/"
     selected: y
     web: y
