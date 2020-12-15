@@ -28,6 +28,14 @@ papers:
     venue: "3DPrint.com"
 #    paper_pdf: "/assets/publications/2020_welding_printing/paper.pdf"
     link: "https://3dprint.com/275905/how-welding-strategies-can-revolutionize-3d-printing/"
+    selected: n
+    web: y
+
+  - title: "How AI/ML has Impacted the COVID-19 Pandemic"
+    authors: "Alex Saad-Falcon"
+    venue: "DO Supply, Inc."
+#    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
+    link: "https://www.dosupply.com/tech/2020/12/11/how-ai-machine-learning-has-impacted-the-covid-19-pandemic/"
     selected: y
     web: y
 
