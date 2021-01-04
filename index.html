@@ -68,6 +68,9 @@ title: Personal Webpage
               {% if paper.link %}
                 <a class="button" href="{{ paper.link }}" target="_blank">Link</a>
               {% endif %}
+              {% if paper.link2 %}
+                <a class="button" href="{{ paper.link2 }}" target="_blank">Link2</a>
+              {% endif %}
             {% endif %}
             {% if paper.paper_pdf %}
             <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">

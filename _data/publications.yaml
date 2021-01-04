@@ -15,6 +15,15 @@ papers:
     selected: y
     web: y
 
+  - title: "How AI/ML has Impacted the COVID-19 Pandemic"
+    authors: "Alex Saad-Falcon"
+    venue: "DO Supply, Inc."
+#    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
+    link: "https://www.dosupply.com/tech/2020/12/11/how-ai-machine-learning-has-impacted-the-covid-19-pandemic/"
+    link2: "https://dzone.com/articles/how-aimachine-learning-has-impacted-the-covid-19-p"
+    selected: y
+    web: y
+
   - title: "Industrial safety monitoring using fuzzy logic"
     authors: "Alex Saad-Falcon"
     venue: "Industrial Safety and Hygiene News"
@@ -29,14 +38,6 @@ papers:
 #    paper_pdf: "/assets/publications/2020_welding_printing/paper.pdf"
     link: "https://3dprint.com/275905/how-welding-strategies-can-revolutionize-3d-printing/"
     selected: n
-    web: y
-
-  - title: "How AI/ML has Impacted the COVID-19 Pandemic"
-    authors: "Alex Saad-Falcon"
-    venue: "DO Supply, Inc."
-#    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
-    link: "https://www.dosupply.com/tech/2020/12/11/how-ai-machine-learning-has-impacted-the-covid-19-pandemic/"
-    selected: y
     web: y
 
 #  - title: "Face Recognition"
