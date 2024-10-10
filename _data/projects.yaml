@@ -13,12 +13,12 @@ projects:
     subtitle: "Deep neural network style transfer using a fluid simulation in browser"
     thumbnail: "assets/projects/2020_numart/thumbnail.jpg"
     url: "http://numart.cc/creator"
-    selected: y
+    selected: n
   - title: "C++ Fractal Music Visualizer"
     subtitle: "An OpenGL music visualizer using the FFT and the Mandelbrot set fractal"
     thumbnail: "assets/projects/2018_cpp_music_viz/thumbnail.jpg"
     url: "https://github.com/alexsaadfalcon/cpp_music_viz/"
-    selected: n
+    selected: y
   - title: "MATLAB Particle Simulation"
     subtitle: "Simulating and visualizing various particle forces"
     thumbnail: "assets/projects/2014_matlab_particles/thumbnail.png"
