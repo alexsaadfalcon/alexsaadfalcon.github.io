@@ -9,7 +9,7 @@ papers:
 
   - title: "Level set methods for gradient-free optimization of metasurface arrays"
     authors: "<b>Alex Saad-Falcon</b>, Christopher Howard, Justin Romberg, Kenneth Allen"
-    venue: "Scientific Reports - Nature"
+    venue: "Scientific Reports"
     paper_doi: "https://doi.org/10.1038/s41598-024-67142-2"
     arxiv: "https://arxiv.org/abs/2307.07606"
     selected: y
