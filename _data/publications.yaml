@@ -75,7 +75,7 @@ papers:
     venue: "Industrial Safety and Hygiene News"
 #    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
     link: "https://www.ishn.com/articles/112736-industrial-safety-monitoring-using-fuzzy-information"
-    selected: y
+    selected: n
     web: y
 
   - title: "How welding strategies can revolutionize 3D printing"
