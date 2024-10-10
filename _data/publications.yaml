@@ -1,18 +1,63 @@
 papers:
+
+  # - title: "placeholder"
+  #   authors: "<b>Alex Saad-Falcon</b>, ..."
+  #   venue: "venue"
+  #   paper_doi: "https://doi.org/doi"
+  #   link: "https://doi.org/doi"
+  #   selected: y
+
+  - title: "Level set methods for gradient-free optimization of metasurface arrays"
+    authors: "<b>Alex Saad-Falcon</b>, Christopher Howard, Justin Romberg, Kenneth Allen"
+    venue: "Scientific Reports"
+    paper_doi: "https://doi.org/10.1038/s41598-024-67142-2"
+    link: "https://doi.org/10.1038/s41598-024-67142-2"
+    arxiv: "https://arxiv.org/abs/2307.07606"
+    selected: y
+
+  - title: "Subspace Tracking with Dynamical Models on the Grassmannian"
+    authors: "<b>Alex Saad-Falcon</b>, Brighton Ancelin, Justin Romberg"
+    venue: "IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM 2024)"
+    paper_doi: "https://doi.org/10.1109/SAM60225.2024.10636434"
+    link: "https://doi.org/10.1109/SAM60225.2024.10636434"
+    arxiv: "https://arxiv.org/abs/2402.10352"
+    selected: y
+
+  - title: "Applying an electrostatic cross-correlation to the CFTR-ATP interaction"
+    authors: "<b>Alex Saad-Falcon</b>, Mark Bolding, James Dee, Ryan S. Westafer, Douglas R. Denison, Nael McCarty, William D. Hunt"
+    venue: "arXiv Preprint"
+    paper_doi: "https://doi.org/10.48550/arXiv.2404.09281"
+    link: "https://doi.org/10.48550/arXiv.2404.09281"
+    selected: y
+
+  - title: "Extraction of Dielectric Permittivity from Atomistic Molecular Dynamics Simulations and Microwave Measurements"
+    authors: "<b>Alex Saad-Falcon</b>, Zijian Zhang, James Dee, Ryan S. Westafer, James C. Gumbart"
+    venue: "The Journal of Physical Chemistry B"
+    paper_doi: "https://doi.org/10.1021/acs.jpcb.2c05260"
+    link: "https://doi.org/10.1021/acs.jpcb.2c05260"
+    selected: y
+
+  - title: "Abstraction and acceleration of tensor processing for element-level digital arrays"
+    authors: "<b>Alex Saad-Falcon</b>, Jonathan D. Andreasen, J. Clayton Kerce, Ryan S. Westafer, Jonathan P. Beaudeau, J. Michael McKinney"
+    venue: "2022 IEEE International Symposium on Phased Array Systems & Technology (PAST)"
+    paper_doi: "https://doi.org/10.1109/PAST49659.2022.9974995"
+    link: "https://doi.org/10.1109/PAST49659.2022.9974995"
+    selected: y
+
   - title: "Rigorous approach to simulate electromagnetic interactions in biological systems"
     authors: "Kenneth W. Allen, William D. Hunt, Jonathan D. Andreasen, John D. Farnum, <b>Alex Saad-Falcon</b>, Ryan S. Westafer, Douglas R. Denison"
     venue: "NAECON 2018 - IEEE National Aerospace and Electronics Conference"
     paper_pdf: "/assets/publications/2018_ieee_naecon/paper.pdf"
     paper_doi: "https://doi.org/10.1109/NAECON.2018.8556724"
     link: "https://doi.org/10.1109/NAECON.2018.8556724"
-    selected: y
+    selected: n
 
   - title: "Using innovative powder technologies to manufacture personalized medicines"
     authors: "Alex Saad-Falcon"
     venue: "Pharma Manufacturing"
     paper_pdf: "/assets/publications/2020_powder_tech/paper.pdf"
     link: "https://www.pharmamanufacturing.com/articles/2020/using-new-powder-technologies-to-manufacture-personalized-medicine/"
-    selected: y
+    selected: n
     web: y
 
   - title: "How AI/ML has Impacted the COVID-19 Pandemic"
@@ -21,7 +66,7 @@ papers:
 #    paper_pdf: "/assets/publications/2020_fuzzy_logic/paper.pdf"
     link: "https://www.dosupply.com/tech/2020/12/11/how-ai-machine-learning-has-impacted-the-covid-19-pandemic/"
     link2: "https://dzone.com/articles/how-aimachine-learning-has-impacted-the-covid-19-p"
-    selected: y
+    selected: n
     web: y
 
   - title: "Industrial safety monitoring using fuzzy logic"
