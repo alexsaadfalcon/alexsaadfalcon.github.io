@@ -50,7 +50,7 @@ experiences:
 - place: "Georgia Tech"
   time: "Aug 2020 - Present"
   title: "PhD Student"
-  subtitle: "Machine Learning"
+  subtitle: "Machine Learning <br/> Advised by Justin Romberg"
   category: "school"
 
 - place: "Georgia Tech Research Institute"
@@ -72,7 +72,7 @@ experiences:
   category: "school"
 
 - place: "SpecWare, Inc."
-  time: "May 2017 - Present"
+  time: "May 2017 - August 2019"
   title: "CTO and Co-founder"
   subtitle: "Spectroscopy for BAC Measurement"
   category: "work"
@@ -83,11 +83,11 @@ experiences:
   subtitle: "Genetic Algorithms for Thin-Film Optics"
   category: "work"
 
-- place: "Leidos"
-  time: "May 2015 - Dec 2015"
-  title: "Software Engineer"
-  subtitle: "Physics Modeling and Simulation"
-  category: "work"
+# - place: "Leidos"
+#   time: "May 2015 - Dec 2015"
+#   title: "Software Engineer"
+#   subtitle: "Physics Modeling and Simulation"
+#   category: "work"
 
 - place: "Georgia Tech"
   time: "Aug 2014 - Dec 2017"
